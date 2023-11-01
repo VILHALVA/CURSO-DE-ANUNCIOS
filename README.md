@@ -2,6 +2,7 @@
 👨‍⚖️SE REFEREM A CAMPANHAS PUBLICITÁRIAS E MENSAGENS PROMOCIONAIS QUE SÃO VEICULADAS ONLINE PARA PROMOVER PRODUTOS, SERVIÇOS, MARCAS OU CAUSAS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=ANUNCIO)
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlkAQ8ZBGOXJTkaFewVoZW0&si=XCUB8IB7mSkbIiqB)
 
