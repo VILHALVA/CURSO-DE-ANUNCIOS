@@ -1,8 +1,8 @@
 # CURSO DE ANUNCIOS
 👨‍⚖️SE REFEREM A CAMPANHAS PUBLICITÁRIAS E MENSAGENS PROMOCIONAIS QUE SÃO VEICULADAS ONLINE PARA PROMOVER PRODUTOS, SERVIÇOS, MARCAS OU CAUSAS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=ANUNCIO)
+[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=ANUNCIO) 
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlkAQ8ZBGOXJTkaFewVoZW0&si=XCUB8IB7mSkbIiqB)
 
@@ -28,4 +28,32 @@ Aqui estão alguns elementos-chave a serem considerados no conceito de anúncios
 6. **Otimização:** Com base nas métricas de desempenho, é importante otimizar suas campanhas. Isso pode envolver ajustar o público-alvo, o orçamento, o conteúdo do anúncio e outros elementos para melhorar os resultados.
 
 Exemplo prático: Suponha que você tem uma loja online que vende roupas de fitness. Para promover sua marca, você cria uma campanha de anúncios no Facebook Ads, direcionando seus anúncios para mulheres entre 18 e 35 anos que demonstraram interesse em academias e estilo de vida saudável. Você define um orçamento diário de $50 e cria anúncios atraentes com imagens de modelos vestindo suas roupas de fitness. Após uma semana, você analisa as métricas e descobre que obteve um CTR de 5% e um ROI positivo, o que indica que sua campanha está gerando resultados positivos.
+
+# CARACTERÍSTICAS:
+## POSITIVAS:
+- **Segmentação Precisa:** Os anúncios na internet permitem uma segmentação precisa do público-alvo com base em vários critérios, como idade, localização, interesses e comportamentos online.
+
+- **Mensuração de Resultados:** Ferramentas de análise permitem medir o desempenho dos anúncios em tempo real, oferecendo métricas detalhadas, como cliques, impressões, taxas de conversão e retorno sobre o investimento (ROI).
+
+- **Custo Efetivo:** Comparado a métodos tradicionais de publicidade, os anúncios na internet podem ser mais acessíveis, especialmente para empresas de pequeno e médio porte.
+
+- **Interatividade:** Os anúncios online podem ser interativos, permitindo aos usuários clicar, compartilhar ou até mesmo realizar transações diretamente do anúncio.
+
+- **Flexibilidade de Formatos:** Diversos formatos de anúncios estão disponíveis, como banners, vídeos, anúncios de pesquisa, nativos e outros, proporcionando flexibilidade na abordagem de marketing.
+
+- **Alcance Global:** Permite atingir uma audiência global, independentemente da localização geográfica da empresa.
+
+## NEGATIVAS:
+- **Ad-Blockers:** A crescente adoção de ad-blockers pode reduzir a visibilidade dos anúncios, especialmente entre os usuários mais conscientes em relação à privacidade e à experiência do usuário.
+
+- **Saturation e Fadiga:** A exposição excessiva a anúncios pode levar à saturação e fadiga do público, reduzindo a eficácia das campanhas publicitárias.
+
+- **Concorrência Intensa:** A competição por espaço publicitário online pode ser intensa, o que pode elevar os custos e dificultar o destaque.
+
+- **Desconfiança do Consumidor:** Algumas pessoas têm desconfiança em relação aos anúncios online, especialmente devido a preocupações com privacidade e a presença de notícias falsas.
+
+- **Complexidade Técnica:** Configurar e otimizar campanhas de anúncios online pode ser técnico e exigir conhecimento em plataformas de publicidade digital.
+
+- **Exigências em Evolução:** As plataformas de publicidade online frequentemente atualizam suas políticas e algoritmos, exigindo uma adaptação constante por parte dos anunciantes.
+
 
