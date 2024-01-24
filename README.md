@@ -2,13 +2,7 @@
 👨‍⚖️SE REFEREM A CAMPANHAS PUBLICITÁRIAS E MENSAGENS PROMOCIONAIS QUE SÃO VEICULADAS ONLINE PARA PROMOVER PRODUTOS, SERVIÇOS, MARCAS OU CAUSAS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=ANUNCIO) 
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlkAQ8ZBGOXJTkaFewVoZW0&si=XCUB8IB7mSkbIiqB)
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkKuaHVpQ57nnRdj9R2eI7BbA_rRJlCA8Bnk1Lib-u2vfN7HmZG6L7cJCNu9uZ9xkwhk&usqp=CAU" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 **Anúncios na Internet** se referem a campanhas publicitárias e mensagens promocionais que são veiculadas online para promover produtos, serviços, marcas ou causas. Eles são uma parte fundamental do marketing digital e desempenham um papel significativo na estratégia de muitas empresas e organizações.
