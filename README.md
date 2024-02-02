@@ -1,8 +1,7 @@
 # CURSO DE ANUNCIOS
 👨‍⚖️SE REFEREM A CAMPANHAS PUBLICITÁRIAS E MENSAGENS PROMOCIONAIS QUE SÃO VEICULADAS ONLINE PARA PROMOVER PRODUTOS, SERVIÇOS, MARCAS OU CAUSAS.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLHz_AreHm4dlkAQ8ZBGOXJTkaFewVoZW0&si=XCUB8IB7mSkbIiqB)
+<img src="FOTO.png" align="center" width="400"> <br>
 
 # CONCEITO:
 **Anúncios na Internet** se referem a campanhas publicitárias e mensagens promocionais que são veiculadas online para promover produtos, serviços, marcas ou causas. Eles são uma parte fundamental do marketing digital e desempenham um papel significativo na estratégia de muitas empresas e organizações.
@@ -49,5 +48,9 @@ Exemplo prático: Suponha que você tem uma loja online que vende roupas de fitn
 - **Complexidade Técnica:** Configurar e otimizar campanhas de anúncios online pode ser técnico e exigir conhecimento em plataformas de publicidade digital.
 
 - **Exigências em Evolução:** As plataformas de publicidade online frequentemente atualizam suas políticas e algoritmos, exigindo uma adaptação constante por parte dos anunciantes.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "CURSO EM VIDEO"](https://youtube.com/playlist?list=PLHz_AreHm4dlkAQ8ZBGOXJTkaFewVoZW0&si=XCUB8IB7mSkbIiqB)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 
 
